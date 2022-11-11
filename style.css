@@ -1,0 +1,18 @@
+div{
+    display: flex;
+}
+
+.imagem{
+    left: auto;
+}
+
+.titulo{
+    text-align: left;
+}
+
+.texto{
+    float: left;
+    text-align:center;
+    display: flex;
+    line-height:normal;
+}
